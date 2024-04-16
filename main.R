@@ -1,2 +1,2 @@
 
-print("Hello, Continent!")
+print("Goodnight, moon!")
